@@ -3,20 +3,18 @@ public:
     bool isAnagram(string s, string t) {
         if(s.size() != t.size())
             return false;
-        map<char,int> mp;
-        map<char,int> mp2;
+        unordered_map<char, int> charMap;
         
-        for(auto it: s){
-            mp[it]++;
+        int len = s.size();
+        
+        for(int i=0; i<len; i++){
+            charMap[s[i]]++;
         }
         
-        for(auto it: t){
-            mp2[it]++;
-        }
-        
-        for(auto it: mp){
-            if(mp2[it.first] != it.second)
+        for(int i=0; i<len; i++){
+            if(charMap.count(t[i])==0 || charMap[t[i]] == 0)
                 return false;
+            charMap[t[i]]--;
         }
         
         return true;
