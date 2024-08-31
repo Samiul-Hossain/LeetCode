@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int, int> exists;
+        unordered_map<int, int> mp;
         for(auto it: nums){
-            if(exists.count(it))
+            if(mp.count(it))
                 return true;
-            exists[it]++;
+            mp[it]++;
         }
         return false;
     }
