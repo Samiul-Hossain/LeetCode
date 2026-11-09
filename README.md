@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Samiul-Hossain/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/Samiul-Hossain/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Samiul-Hossain/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Samiul-Hossain/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Samiul-Hossain/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Samiul-Hossain/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Samiul-Hossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Samiul-Hossain/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Samiul-Hossain/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
