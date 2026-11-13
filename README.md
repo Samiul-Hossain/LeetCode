@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Samiul-Hossain/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Samiul-Hossain/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Samiul-Hossain/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Samiul-Hossain/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Samiul-Hossain/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Samiul-Hossain/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Samiul-Hossain/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Samiul-Hossain/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
